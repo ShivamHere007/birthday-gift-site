@@ -48,7 +48,7 @@ h1, h2, h3, h4, p {
 }
 
 .gift-img{
-    background-image: url(/birthday_card/gift-cover.jpg);
+    background-image: url(gift-cover.jpg);
     height: 400px;
     width: 400px;
     background-size: cover;
